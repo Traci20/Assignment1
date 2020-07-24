@@ -9,6 +9,7 @@ This is the test file for the Interpolation Search
 from question2b import *
 
 # gea serves as an empty list which will store the average time it took to run the code five times
+# the time is in milliseconds (msec)
 gea = []
 print('When the range size for the random numbers is 100: ')
 N = 100
